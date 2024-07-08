@@ -46,10 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devaloz/devaloz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.facebook.com/alexxx.lozano.98/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
